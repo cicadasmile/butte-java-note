@@ -12,7 +12,8 @@
 |:---|:---|
 | [butte-java-note](https://gitee.com/cicadasmile/butte-java-note/wikis/pages) |Java编程文档体系化整理，涉及基础、应用、架构，大数据等 |
 | [butte-frame-parent](https://gitee.com/cicadasmile/butte-frame-parent) |Java分布式框架，微服务组件，中间件等，常用功能二次浅封装 |
-| [butte-flyer-parent](https://gitee.com/cicadasmile/butte-flyer-parent) |基于Spring-Cloud架构，butte-frame二次浅封装应用案例 |
+| [butte-flyer-parent](https://gitee.com/cicadasmile/butte-flyer-parent) |基于SpringCloud架构，butte-frame二次浅封装应用案例 |
+| [butte-auto-parent](https://gitee.com/cicadasmile/butte-auto-parent) |基于Jenkins+Docker+K8S实现流程自动化持续集成 |
 | [java-base-parent](https://gitee.com/cicadasmile/java-base-parent) | Jvm虚拟机，Java基础，Web编程，JDK源码分析 |
 | [model-arithmetic-parent](https://gitee.com/cicadasmile/model-arithmetic-parent) | 常用24种设计模式，设计原则总结，数据结构与算法应用 |
 | [data-manage-parent](https://gitee.com/cicadasmile/data-manage-parent) | 分布式系统细节管理，架构设计，常用中间件与集群模式 |
@@ -36,10 +37,23 @@
 
 ### 互联网争渡
 
-- [职场：3天准备5天面试，跳槽完成](https://mp.weixin.qq.com/s/DnjMqgjL5HanXtvu5uNxVQ)
-- [职场：跳槽之后，如何平稳走过试用期](https://mp.weixin.qq.com/s/o8vHWU8_778WtkaZD3AHsg)
-- [职场：工作五年之后，对技术和业务的思考](https://mp.weixin.qq.com/s/CTbEdi0F4-qFoJT05kNlXA)
-- [互联网：逻辑上的黑话才是真正的花里胡哨](https://mp.weixin.qq.com/s/cA5WkQmYVpXSCYl06ysNUA)
+- 职场系列
+
+    - [职场：3天准备5天面试，跳槽完成](https://mp.weixin.qq.com/s/DnjMqgjL5HanXtvu5uNxVQ)
+    - [职场：跳槽之后，如何平稳走过试用期](https://mp.weixin.qq.com/s/o8vHWU8_778WtkaZD3AHsg)
+    - [职场：工作五年之后，对技术和业务的思考](https://mp.weixin.qq.com/s/CTbEdi0F4-qFoJT05kNlXA)
+    - [职场：个人成长中，关于规划设计的思考](https://mp.weixin.qq.com/s/aIghHdF1Czmfn4wkWXIUnQ)
+    - [职场：站在面试官角度，看求职与内卷](https://mp.weixin.qq.com/s/G7RC1qSkQ-qZSMh0flDPmw)
+    - [职场：简简单单的总结，意如生活的平淡](https://mp.weixin.qq.com/s/-0yZEjVIi5LPIsgmAmfgmw)
+
+- 互联网系列
+
+    - [互联网：逻辑上的黑话才是真正的花里胡哨](https://mp.weixin.qq.com/s/cA5WkQmYVpXSCYl06ysNUA)
+
+- 管理系列
+
+    - [管理：编程进阶之路，虽无捷径但有长短](https://mp.weixin.qq.com/s/RivfqJXWTRkaeqJx5_AieQ)
+    - [管理：基于流程协作，提高工作质量和效率](https://mp.weixin.qq.com/s/Hwak1ZkrAFSwDHCP1fCQ8Q)
 
 ### 系统架构系列
 
@@ -355,6 +369,11 @@
 - 持续集成
 
     - [自动化集成：Jenkins管理工具详解](https://mp.weixin.qq.com/s/XnrharTU22GypqcJcDuwiw)
+    - [自动化集成：Pipeline流水语法详解](https://mp.weixin.qq.com/s/tWKXEcPXzD2muOeEv0GhuQ)
+    - [自动化集成：Docker容器入门简介](https://mp.weixin.qq.com/s/9gqbJFFyRM0FiXBXRYwqyA)
+    - [自动化集成：Pipeline整合Docker容器](https://mp.weixin.qq.com/s/baOTS6eDZu_6wXGVzF8Hqg)
+    - [自动化集成：Kubernetes容器引擎详解](https://mp.weixin.qq.com/s/qIMk0tfjoFcmQFIcWJrxPQ)
+    - [自动化集成：Pipeline整合Docker+K8S](https://mp.weixin.qq.com/s/OOz1FFDrXVOrMhI2jPauDA)
 
 ### 数据库存储
 
@@ -373,3 +392,4 @@
     - [MySQL进阶：基于多个维度，分析服务器性能](https://mp.weixin.qq.com/s/tgI5W5vZYtFG8OBDWfEkNw)
     - [MySQL进阶：索引体系划分，B-Tree结构说明](https://mp.weixin.qq.com/s/VIFzBvSAangu0qa7k8C6dg)
     - [MySQL进阶：合理的使用索引结构和查询](https://mp.weixin.qq.com/s/26nMtNk342sbpOdOYNBwcQ)
+
