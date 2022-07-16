@@ -27,14 +27,36 @@
 - **互联网系列**
 
     - [逻辑上的黑话才是真正的花里胡哨](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/worker/net/N01、逻辑上的黑话.md)
+    - [客观的聊一聊，裁员这件糟心事](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/worker/net/N02、客观的聊聊裁员.md)
 
 ### 架构设计
 
 - **项目实践**
 
-    - [微服务架构中，二次浅封装实践](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P01、微服务组件浅封装.md)
-    - [分布式项目中，选型与依赖管理](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P02、选型与依赖管理.md)
+    - 基础概述
+        
+        - [微服务架构中，二次浅封装实践](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P01、微服务组件浅封装.md)
+        - [分布式项目中，选型与依赖管理](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P02、选型与依赖管理.md)
+        - [日志管理系统，多种方式总结](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P03、日志多种管理体系.md)
+        - [微服务工程中，基础组件应用](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P04、微服务基础组件.md)
+        - [微服务与领域驱动设计架构实践](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P08、微服务与领域驱动.md)
     
+    - 源码分析
+    
+        - [服务管理与通信，基础原理分析](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/source/01、服务注册发现与通信.md)
+        - [应用配置管理，基础原理分析](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/source/02、服务配置管理.md)
+        - [从简单代码入手，分析线程池原理](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P05、线程池源码分析.md)
+        - [基于Apache组件，分析对象池原理](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P06、Apache对象池分析.md)
+        - [基于HiKariCP组件，分析连接池原理](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/practic/P07、HiKariCP连接池分析.md)
+       
+    - 业务设计
+    
+        - [分布式系统中，权限设计实践](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D14、分布式权限设计.md)
+        - [复杂任务中，流程的解耦设计](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D15、任务流程解耦设计.md)
+        - [模板化的封装，降低业务代码开发](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D16、模板化的封装.md)
+        - [聊聊支付流程的设计与实现逻辑](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D17、支付流程设计与逻辑.md)
+        - [聊聊消息中心的设计与实现逻辑](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D18、消息中心设计与逻辑.md)
+
 - **基础设计**
 
     - [单服务.集群.分布式，区别和联系](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D01、单服务.集群.分布式对比.md)
@@ -50,8 +72,7 @@
     - [分布式结构下，服务部署发布](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D11、服务常见部署模式.md)
     - [服务自动化部署和管理流程](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D12、服务自动化集成.md)
     - [分布式服务下，消息中间件改造](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D13、消息中间件改造.md)
-    - [分布式系统中，权限设计实践](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/design/D14、分布式权限设计.md)
-
+    
 - **持续集成**
 
     - [Jenkins管理工具详解](https://gitee.com/cicadasmile/butte-java-note/blob/master/doc/frame/auto/A01、Jenkins管理工具.md)
